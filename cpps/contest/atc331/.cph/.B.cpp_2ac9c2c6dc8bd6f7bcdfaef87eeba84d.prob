@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"/home/tang/works/cpps/contest/atc331/B.cpp","tests":[{"id":1701589842756,"input":"16 120 150 200\n","output":"300\n"},{"id":1701589881907,"input":"10 100 50 10","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tang/works/cpps/contest/atc331/B.cpp","group":"local","local":true}
